@@ -61,3 +61,17 @@ Open your `settings.json` and add:
   "file:///absolute/path/to/vscode-script.js"
 ],
 "vscode_custom_css.policy": true
+
+📌 Replace "file:///absolute/path/to/..." with the full file paths on your machine.
+
+3. Reload VS Code
+Open the command palette (Ctrl+Shift+P) and run:
+
+Enable Custom CSS and JS
+Then restart VS Code to apply the changes.
+
+🧼 Resetting to Default
+To revert the customization:
+
+code --disable-extensions
+Or manually remove the extension and delete CSS/JS entries from your settings.json.
