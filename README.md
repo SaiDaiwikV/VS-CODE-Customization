@@ -2,6 +2,11 @@
 
 This repository contains a customized Visual Studio Code setup that enhances UI elements using a custom CSS and JavaScript injection approach. It is tailored for an improved experience with the **default React JS theme** and includes better visual feedback for the command palette, explorer, tooltips, and more.
 
+## Preview after the Customization
+
+![image_alt](https://github.com/SaiDaiwikV/VS-CODE-Customization/blob/702e6f47a4e2155ca37fefa589bab3fc679f1c09/images/preview1.png)
+![image_alt](https://github.com/SaiDaiwikV/VS-CODE-Customization/blob/702e6f47a4e2155ca37fefa589bab3fc679f1c09/images/preview2.png)
+![image_alt](https://github.com/SaiDaiwikV/VS-CODE-Customization/blob/702e6f47a4e2155ca37fefa589bab3fc679f1c09/images/preview3.png)
 ---
 
 ## 📁 Contents
